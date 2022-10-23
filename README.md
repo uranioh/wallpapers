@@ -3,7 +3,7 @@ This is a collection of wallpapers for both desktop and mobile.
 
 ## How to contribute
 Anyone is free to create any commit regardless of wallpaper type or resolution **with the following exceptions**: 
-- The only acceptable image formats are **PNG* and **JPG*. **WEBP** can get fucked. __Nobody likes you, WEBP.__
+- The only acceptable image formats are **PNG* and **JPG*. **WEBP** can get fucked. _Nobody likes you, WEBP._
 - I will **only** accept images with the shortest edge equal to / greater than **1080 pixels**. _Heck it's 2022_.
 - I will not accept any kind of wallpaper showing nudity and stuff like that. _Self explainatory_.
 - I will not accept any wallpaper that fits only a certain device or group of devices. For example, no wallpapers with dedicated sections or borders for iPhone ([Example Here](https://www.pinterest.it/pin/789959590864839408/)).
